@@ -12,6 +12,6 @@ int  main()
 {
     int a = 10, b = 20,c;
     c =Add(a, b);
-    printf("%d", sizeof(int*));
+    printf("%d", b);
     return 0;
 }
