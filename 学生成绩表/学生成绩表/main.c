@@ -1,3 +1,4 @@
+//时间2021/12/27
 #include <stdio.h>
 #include <malloc.h>
 #define S 10//学生总数
