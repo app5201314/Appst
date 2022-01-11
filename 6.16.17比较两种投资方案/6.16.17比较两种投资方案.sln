@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.16.17比较两种投资方案", "6.16.17比较两种投资方案.vcxproj", "{5CD5490E-B18B-40CA-91CC-0A58DE166373}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CD5490E-B18B-40CA-91CC-0A58DE166373}.Debug|x64.ActiveCfg = Debug|x64
+		{5CD5490E-B18B-40CA-91CC-0A58DE166373}.Debug|x64.Build.0 = Debug|x64
+		{5CD5490E-B18B-40CA-91CC-0A58DE166373}.Debug|x86.ActiveCfg = Debug|Win32
+		{5CD5490E-B18B-40CA-91CC-0A58DE166373}.Debug|x86.Build.0 = Debug|Win32
+		{5CD5490E-B18B-40CA-91CC-0A58DE166373}.Release|x64.ActiveCfg = Release|x64
+		{5CD5490E-B18B-40CA-91CC-0A58DE166373}.Release|x64.Build.0 = Release|x64
+		{5CD5490E-B18B-40CA-91CC-0A58DE166373}.Release|x86.ActiveCfg = Release|Win32
+		{5CD5490E-B18B-40CA-91CC-0A58DE166373}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F10AC710-5816-4D8C-9AF6-EC39D5B19AE1}
+	EndGlobalSection
+EndGlobal

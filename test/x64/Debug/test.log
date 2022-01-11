@@ -1,4 +1,2 @@
 ﻿  main.c
-C:\Users\appst\Desktop\C语言VS\test\main.c(15,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
-C:\Users\appst\Desktop\C语言VS\test\main.c(15,12): message : 请考虑在格式字符串中使用“%zd”
   test.vcxproj -> C:\Users\appst\Desktop\C语言VS\test\x64\Debug\test.exe

@@ -1,15 +1,10 @@
 {
   "Version": 1,
   "ProjectMap": {
-    "7464b25a-075a-4d5d-a533-8fb469c3418c": {
-      "ProjectGuid": "7464b25a-075a-4d5d-a533-8fb469c3418c",
+    "263d9b51-a0ac-4efe-87ea-b80125f95b4a": {
+      "ProjectGuid": "263d9b51-a0ac-4efe-87ea-b80125f95b4a",
       "DisplayName": "test",
       "ColorIndex": 0
-    },
-    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
-      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
-      "DisplayName": "杂项文件",
-      "ColorIndex": -1
     }
   },
   "NextColorIndex": 1

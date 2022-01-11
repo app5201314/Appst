@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\appst\Desktop\C语言VS\华氏温度与摄氏温度开氏温度的转换\main.c(12,1): warning C4305: “初始化”: 从“double”到“const float”截断
+C:\Users\appst\Desktop\C语言VS\华氏温度与摄氏温度开氏温度的转换\main.c(14,1): warning C4305: “初始化”: 从“double”到“const float”截断
+  华氏温度与摄氏温度开氏温度的转换.vcxproj -> C:\Users\appst\Desktop\C语言VS\华氏温度与摄氏温度开氏温度的转换\x64\Debug\华氏温度与摄氏温度开氏温度的转换.exe

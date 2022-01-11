@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c02e126a-cc5d-43c5-b301-29e5a766ea76": {
+      "ProjectGuid": "c02e126a-cc5d-43c5-b301-29e5a766ea76",
+      "DisplayName": "6.16.12打印两个序列的值",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
